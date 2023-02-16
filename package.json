@@ -1,6 +1,9 @@
 {
-  "name": "reactjs-library-example",
-  "version": "1.0.0",
+  "name": "@rrmerugu/reactjs-library-example",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/rrmerugu"
+  },
+  "version": "0.0.1",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
