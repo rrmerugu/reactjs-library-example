@@ -1,5 +1,11 @@
 # Reactjs Library Example
 
+```
+nvm install 16
+nvm use 16
+npm install 
+npm run storybook     
+```
 
 
 
